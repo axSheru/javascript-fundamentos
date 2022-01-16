@@ -1,0 +1,3 @@
+# ABOUT...
+
+In this project different JS basic concepts are revisited.
