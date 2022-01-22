@@ -1,5 +1,5 @@
 // Los primitivos se pasan por valor.
-// Los objetos se pasan por referencia.
+// Los objetos se pasan por referencia.         
 
 let a = 10;
 let b = a;
